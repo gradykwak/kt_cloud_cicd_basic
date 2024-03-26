@@ -1,4 +1,4 @@
-# KT 클라우드네이티브 아카데미 여러분들 환영합니다.
+# KT 클라우드네이티브 아카데미 여러분들 반가워요!
 
 ![welcome](https://www.stagbeetles.com/data/editor/1710/thumb-1935611070_NuYkOtqv_de2dd1c7044025ca920a169c7c3b38a784bae5d4_900x506.jpg)
 
